@@ -1,0 +1,17 @@
+Include sites-available/a199.myrootshell.com
+
+#Include sites-available/ckan.tallsmall.fi
+#Include sites-available/freeze.tallsmall.fi
+#Include sites-available/www.tallsmall.fi
+#Include sites-available/dev.tallsmall.fi
+#Include sites-available/europatreffen.tallsmall.fi
+#Include sites-available/europatreffen-dev.tallsmall.fi
+
+#Include sites-available/www.transdeco.fi
+#Include sites-available/dev.transdeco.fi
+
+#Include sites-available/www.synapse-computing.com
+#Include sites-available/dev.synapse-computing.com
+#Include sites-available/churches.synapse-computing.com # --> moved to nginx
+#Include sites-available/maisemapaikka.synapse-computing.com # --> move to nginx
+#Include sites-available/maisemapaikka-dev.synapse-computing.com # move to nginx
